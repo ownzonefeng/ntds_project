@@ -8,6 +8,8 @@ Team members: FU Yan, FENG Wentao, SUN Zhaodong, HUANG Yunbei
 
 `TransLearn.py`: The py containing functions used in transductive learning.
 
+`data` folder: The folder containing part of used data (not all for some data is too large to be uploaded in Github; nont uploaded data can be found in links in `Dataset` description.
+
 ## Abstract
 In this project we explored through our dataset and set up a model predicting delay for given conditions, and based on this model we can give advice on choosing flights on different seasons, airlines and hours. Due to the constraint on difficulties getting whole world delay dataset, and the US is the largest flight country, in our project the delay analysis is mostly based on the US data.
 
