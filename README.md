@@ -1,4 +1,4 @@
-# Title: How flights delay?
+# Title: A network tour to flight delay in the US
 Team members: FU Yan, FENG Wentao, SUN Zhaodong, HUANG Yunbei
 
 ## Structure of repo
