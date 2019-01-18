@@ -31,9 +31,6 @@ https://www.kaggle.com/usdot/flight-delays#flights.csv
 
 This dataset is collected by the U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics, who tracks more than 5,714,000 samples of domestic flights operated by large air carriers from 01/01/2015 to 31/21/2015, with 322 airport. And features information flight number, airline, departure and arrival time, delay time, air time, distance, origin and destination airport and delay reason( not for all delayed flights). Also, the documents including relationship of IATA code and full information of airports and airlines are given. 
 
-License(https://opendatacommons.org/licenses/odbl/1.0/) and Database Contents License(https://opendatacommons.org/licenses/dbcl/1.0/).
-
-
 ## Result
 We created our graph using airports as nodes, distance bewteen airports after Gaussian kernel as weights.
 
